@@ -15,3 +15,5 @@ I'm compiling a list of all such products that helps developers to build a notif
 [Knock](https://knock.app) is a flexible notification infrastructure that can be built to scale as per the business requirements. The APIs used in this notification infrastructure allows developers to handle the most complex notification use cases that are built on top of primitives. The platform offers a pay-as-you-go model, which helps scale as per need. There are no upfront fees or infrastructure setup required.
 
 
+## Magicbell
+[MagicBell](https://magicbell.com) is a real-time notification platform with API & UI components for multi-channel delivery. It allows syncing up notifications across devices and tabs, which helps avoid notifying a user twice.
